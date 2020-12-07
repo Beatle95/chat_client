@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mainwindow.qml</file>
+        <file>loginuserform.qml</file>
+        <file>registerform.qml</file>
+        <file>optionsform.qml</file>
+        <file>taskswindow.qml</file>
+    </qresource>
+</RCC>

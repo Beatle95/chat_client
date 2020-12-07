@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/add.png</file>
+        <file>img/additions.png</file>
+        <file>img/users.png</file>
+        <file>img/send.png</file>
+        <file>img/additions_dark.png</file>
+        <file>img/loader.gif</file>
+        <file>img/task.png</file>
+        <file>sound/message.wav</file>
+        <file>img/mainicon.png</file>
+    </qresource>
+</RCC>
